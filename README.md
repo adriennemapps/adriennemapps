@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adriennemapps
-- 👀 I’m interested in HTML, CSS, Python and SQL
+- 👀 I’m interested in HTML, CSS, & JavaScript
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on (I'll get back to you on that)
 - 📫 How to reach me adrienne.mapps@gmail.com
